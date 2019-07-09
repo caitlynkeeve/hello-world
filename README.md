@@ -1,2 +1,5 @@
 # hello-world
 This is my resume via the internet. 
+Caitlyn Keeve is an Honors student in the Psychology Department at Mount Saint Mary's University, working at the Center for the Advancement of Women. As a first-year student, she gave a Ted Talk at TedxMSMU and published peer-reviewed research in an international museum catalogue. Now as a Junior, she has completed her Honors Thesis titled, "Why Are There So Few Women Pilots? A Comparative Case Study on Women Pilots in United States and Indian Aviation". In the future, she tasks herself with creating a framework for the economic empowerment and social engagement of women in the global workforce through policy and academic scholarship. 
+
+Current projects address the gender wage gap, higher education leadership, and insights into nontraditional careers for women around the world. She is broadly interested in how women's experiences shape decision making and career motivations- particularly where psychological theories and identity development interact. After graduation, she plans to obtain a Ph.D. in Social Psychology and become a professional at the intersections of industry, culture, and education. 
